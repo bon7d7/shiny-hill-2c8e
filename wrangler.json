@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "shiny-hill-2c8e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e2f62941-b018-4b86-b4cb-1610e1324567",
+      "database_name": "simplex-chat-db "
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
